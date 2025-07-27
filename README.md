@@ -6,6 +6,24 @@
 
 This machine learning project predicts the survival of passengers aboard the Titanic using supervised classification models. The project is based on the classic [Kaggle Titanic dataset](https://www.kaggle.com/competitions/titanic/overview), which includes information about passenger demographics, ticket details, and travel class.
 Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger
+
+##  Dataset Overview
+
+The dataset contains information about passengers, including:
+
+| Column        | Description                            |
+|---------------|----------------------------------------|
+| `PassengerId` | Unique identifier                      |
+| `Pclass`      | Ticket class (1 = 1st, 2 = 2nd, 3 = 3rd)|
+| `Name`        | Passenger name                         |
+| `Sex`         | Gender                                 |
+| `Age`         | Age in years                           |
+| `SibSp`       | # of siblings / spouses aboard         |
+| `Parch`       | # of parents / children aboard         |
+| `Fare`        | Ticket fare                            |
+| `Embarked`    | Port of embarkation                    |
+| `Survived`    | Target (0 = No, 1 = Yes)               |
+
                                                                     
 
 
