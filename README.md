@@ -2,6 +2,9 @@
 
 <img src="https://images8.alphacoders.com/405/405029.jpg">
 
+![Titanic](https://upload.wikimedia.org/wikipedia/commons/f/fd/RMS_Titanic_3.jpg)
+
+This machine learning project predicts the survival of passengers aboard the Titanic using supervised classification models. The project is based on the classic [Kaggle Titanic dataset](https://www.kaggle.com/competitions/titanic/overview), which includes information about passenger demographics, ticket details, and travel class.
 Using Machine learning algorithm on the famous Titanic Disaster Dataset for Predicting the survival of the passenger
                                                                     
 The most famous competition over the kaggle . In this Repository my intention is to basically explain to every beginner but how to begin with Kaggle very first time. So this repository is for those who just begin their Machine Learning Journey. In this notebook i try to take down every single topic with a very naive approach so every beginner can grasp it very easily.
