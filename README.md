@@ -50,6 +50,35 @@ Dependencies:
 
 Data Analysis:
 
-Supervised Machine learning Techniques: + Logit Regression Model + Plotting results + Support Vector Machine (SVM) using 3 kernels + Basic Random Forest + Plotting results.
+Supervised Machine learning Techniques: + Logit Regression Model + Support Vector Machine (SVM) using 3 kernels + KNN + Decision Tree Classifier
 
-PS: Please do not forget to drop a star if you like it!
+---
+###  Evaluation Metrics
+- Accuracy
+- Confusion Matrix
+- Classification Report (Precision, Recall, F1-Score)
+
+##  Model Performance
+
+| Model                         | Accuracy Score |
+|-------------------------------|----------------|
+| Logistic Regression           | 76%            |
+| Support Vector Machine (SVM)  | 62%            |
+| K-Nearest Neighbors (KNN)     | 69%            |
+| Decision Tree Classifier      | **83%**        |
+
+---
+
+##  Final Conclusion
+
+Among all the models tested, the **Decision Tree Classifier** achieved the highest accuracy of **83%**, making it the best-performing model on the Titanic dataset.
+
+-  **Decision Trees** are especially effective in capturing complex non-linear relationships and can handle categorical features without requiring feature scaling.
+-  **Logistic Regression** provided a strong baseline at **76%**, but may not have fully captured deeper patterns in the data.
+-  **SVM** and **KNN** underperformed, likely due to:
+  - Sensitivity to feature scaling
+  - The curse of dimensionality
+  - Difficulty in handling overlapping classes and noise
+
+This comparison highlights the importance of evaluating multiple models and understanding their assumptions and limitations when working with real-world datasets.
+
