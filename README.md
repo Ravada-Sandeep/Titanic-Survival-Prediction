@@ -19,12 +19,16 @@ Dependencies:
     Machine Learning Algorithm
     Classification Algorithms
     
-This Notebook will show basic examples of:
 
-    Data Handling
-    Importing Data with Pandas
-    Cleaning Data
-    Exploring Data through Visualizations with Matplotlib
+
+##  Project Highlights
+
+-  Performed end-to-end exploratory data analysis (EDA)
+-  Cleaned and preprocessed missing & categorical values
+-  Trained and evaluated multiple ML models (Logistic Regression, Decision Tree, Random Forest)
+-  Chose the best-performing model based on accuracy & F1-score
+-  Made survival predictions on test data
+
 
 Data Analysis:
 
