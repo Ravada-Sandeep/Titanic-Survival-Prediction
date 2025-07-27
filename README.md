@@ -50,7 +50,7 @@ Dependencies:
 
 Data Analysis:
 
-Supervised Machine learning Techniques: + Logit Regression Model + Support Vector Machine (SVM) using 3 kernels + KNN + Decision Tree Classifier
+Supervised Machine learning Techniques:  Logit Regression Model + Support Vector Machine (SVM) using 3 kernels + KNN + Decision Tree Classifier
 
 ---
 ###  Evaluation Metrics
